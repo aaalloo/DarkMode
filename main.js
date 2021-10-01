@@ -1,5 +1,5 @@
 import "./style.css";
-
+//const vtn=document.querySelector(".theme");
 const themeBtn = document.querySelector(".theme");
 
 function getCurrentTheme() {
